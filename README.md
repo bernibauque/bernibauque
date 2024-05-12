@@ -10,9 +10,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{bernibauque}/count.svg)
 
-- 🌱 I’m currently learning Java, JavaScript, Python, HTML, PHP, Express ⚡️
+- 🌱 I’m currently learning Java, JavaScript, Python, HTML, Express ⚡️
 - 👯 I’m looking to collaborate on open source proyects
-- 🔭 I’m currently working on ... (it's a secret yet 😝)
+- 🔭 I’m currently working on freelance proyects
 - 💬 Ask me about **anything you want!!**
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **Portfolio** ([Click here](https://))
@@ -27,8 +27,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <!--JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<!--kotlin -->
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="cplusplus" height="40"/> </a>
 <!--CSS 3 -->
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <!-- HTML -->
@@ -37,8 +35,6 @@
 <a href="https://es.reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/react.svg" alt="react" width="40" height="40"/> </a>
 <!-- Node -->
 <a href="https://nodejs.org/es/" target="_blank"> <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
- <!--C# -->
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" height="40"/> </a>
 </p>
 
 <h4>- Data bases</h4>
