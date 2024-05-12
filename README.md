@@ -10,10 +10,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{bernibauque}/count.svg)
 
-- 🌱 I’m currently learning Java, JavaScript, Python, HTML, Express ⚡️
-- 👯 I’m looking to collaborate on open source proyects
-- 🔭 I’m currently working on freelance proyects
-- 💬 Ask me about **anything you want!!**
+- 🌱 I’m currently learning Java, JavaScript, Python, HTML, Express   
+- 👯 I’m looking to collaborate on open source proyects  
+- 🔭 I’m currently working on freelance proyects  
+- 💬 Ask me about **anything you want!!**  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **Portfolio** ([Click here](https://))
 
