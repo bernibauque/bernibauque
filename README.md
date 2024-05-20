@@ -6,7 +6,7 @@
   <h4 align="center"><b>"Continual effort, not strength or intelligence. It is the key to unlocking our potential."</b></h4>
 </p>
 
-**VISITOR COUNT** 
+**VISITOR COUNT**  
 
 ![Visitor Count](https://profile-counter.glitch.me/{bernibauque}/count.svg)
 
